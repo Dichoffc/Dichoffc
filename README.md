@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Dichxploit</h1>
- <img src="https://files.catbox.moe/94sc09.jpg" alt="Contoh Gambar" width="500" height="300">
+<img src="https://files.catbox.moe/94sc09.jpg" alt="Contoh Gambar">
 <h3 align="center">A passionate frontend developer from Indonesian</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dichoffc&label=Profile%20views&color=0e75b6&style=flat" alt="dichoffc" /> </p>
